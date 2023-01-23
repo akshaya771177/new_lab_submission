@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+h1{
+    background-image: linear-gradient(blue,purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+header{
+    background-color: lightskyblue;
+    text-align: center;
+    font-size: 30px;
+    padding: 40px;
+    
+}
+nav{background-color: black;
+height: 50px;
+
+}
+
+a{
+    background-image: linear-gradient(purple, blue,darkgreen, lightgreen,red);
+    -webkit-background-clip: text;-webkit-text-fill-color: transparent;
+    font-size: 22px;
+    padding-top: 10px;
+    margin-left: 87px;
+    letter-spacing: 2px;
+    word-spacing: 20px;
+    font-weight:900;
+    padding: 7px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    background-image: linear-gradient(blue,purple);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     padding-top:10px ;
+}
+section{
+    text-align: center;
+    border: 3px solid violet;
+    
+}
+.class{
+    text-align: center;
+    
+    margin-right: 70px;
+}
+.endlines{
+    text-align: center;
+    color: black;
+}
